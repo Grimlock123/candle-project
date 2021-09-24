@@ -1,0 +1,39 @@
+{
+    "Candles": [{
+        "name": "Test Name 1",
+        "scent": "Mango Tropics",
+        "color": "Yellow",
+        "candleType": "Woman Figure",
+        "waxType": "Beeswax",
+        "tags": ["Relaxation","Tropical"],
+        "price": {
+            "original": "15",
+            "new": null,
+            "note": null
+        },
+        "image":[
+            {
+                "imgName": "img1",
+                "imgSource": "./Images/candle1.png",
+                "imgHeight": 100,
+                "imgWidth": 100,
+                "function": "default pic"
+            },
+            {
+                "imgName": "img2",
+                "imgSource": "./Images/candle2.png",
+                "imgHeight": 100,
+                "imgWidth": 100,
+                "function": "hover pic"
+            },
+            {
+                "imgName": "img3",
+                "imgSource": "./Images/candle3.png",
+                "imgHeight": 100,
+                "imgWidth": 100,
+                "function": "overall pic"
+            }
+
+        ]
+    }]
+}

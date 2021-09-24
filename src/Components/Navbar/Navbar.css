@@ -1,0 +1,15 @@
+.navbar{
+    display: grid;
+    grid-template-columns: .5fr 2.5fr 1.5fr .5fr;    
+    
+}
+
+.navbar > div{
+    background-color: lime;
+    border: .5px solid black ;
+}
+
+.info{
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+}
